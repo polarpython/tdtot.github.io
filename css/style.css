@@ -1,0 +1,30 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+
+body{
+    font-family: "Open Sans","PingFang SC", "Hiragino Sans GB" sans-serif;
+    color: #333;
+}
+
+
+nav{
+    z-index: 100;
+    background: transparent;
+}
+
+.navbar-brand>h1{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-brand{
+    padding: 5px 15px 0 15px;
+}
+
+#footer{
+	     margin: 0;
+	 text-align: center;
+	  font-size: 14px;
+          color: #999;
+	padding-top: 40px;
+    padding-bottom: 10px;
+}
