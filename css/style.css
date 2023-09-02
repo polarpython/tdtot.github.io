@@ -1,6 +1,8 @@
 @import url(http://fonts.googleapis.com/css?family=Open+Sans);
-@import url(http://fonts.googleapis.com/css?family=Sofia+Sans);
-
+@font-face {
+  font-family: "Sofia Sans";
+  src: url("/font/SofiaSans.ttf");
+}
 
 body{
     font-family: "Sofia Sans,”Open Sans","PingFang SC", "Hiragino Sans GB" sans-serif;
