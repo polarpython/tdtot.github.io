@@ -5,7 +5,7 @@
 }
 
 body{
-    font-family: "Sofia Sans,”Open Sans","PingFang SC", "Hiragino Sans GB" sans-serif;
+    font-family: "Sofia Sans,”Open Sans","PingFang SC", "Hiragino Sans GB" sans-serif !important;
     color: #333;
 }
 
