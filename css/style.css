@@ -2,7 +2,7 @@
 
 @font-face {
   font-family: "Sofia Sans";
-  src: url("/font/SofiaSans.ttf");
+  src: url("fonts/SofiaSans.ttf");
 }
 
 body{
