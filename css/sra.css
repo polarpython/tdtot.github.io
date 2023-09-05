@@ -26,11 +26,14 @@
 }*/
 
 #sraLogo{
-    width: 256px !important;
-    height: 256px !important;
-    margin-top: 100px;
+    width: 256px;
+    height: 256px ;
+    margin-top: 180px;
     margin-bottom: 20px;
-	text-align: center;
+}
+
+.container{
+    text-align: center;
 }
 
 
