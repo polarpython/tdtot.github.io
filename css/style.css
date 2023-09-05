@@ -25,6 +25,11 @@ nav{
     padding: 5px 15px 0 15px;
 }
 
+#logo{
+    width:50%;
+    margin-top: 10px;
+}
+
 #footer{
 	     margin: 0;
 	 text-align: center;
