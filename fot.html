@@ -17,6 +17,8 @@
     <link rel="stylesheet" href="css/sra.css">
     <link rel="stylesheet" href="css/fot.css">
     <link rel="icon" href="images/favicon.ico">
+
+<script src="Color4Bg.js"></script>			
     <!--<script type="text/javascript">
         (function (c, l, a, r, i, t, y) {
             c[a] = c[a] || function () { (c[a].q = c[a].q || []).push(arguments) };
@@ -62,6 +64,13 @@
     </div>
 
     <!-- Latest compiled and minified JavaScript -->
+     <script>
+        let colorbg = new Color4Bg.Bg({
+            dom: "box",
+            colors: ["#8BC7C1","#61ACB8","#42627D","#4D947A"],
+            loop: true
+        })
+    </script>
     <script src="http://libs.baidu.com/jquery/2.0.2/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
 </body>
