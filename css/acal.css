@@ -1,0 +1,46 @@
+.bg_idiom {
+    background: url("../images/idiom/bg-background.png") repeat;
+}
+
+.navbar {
+    background: transparent;
+    border: transparent;
+}
+
+.navbar-default .navbar-nav>.active>a,
+.navbar-default .navbar-nav>.active>a:focus,
+.navbar-default .navbar-nav>.active>a:hover {
+    color: #9A040E;
+    background-color: transparent;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: rgba(154, 4, 14, 0.5);
+}
+
+
+
+/* #logoSra{
+    font-size: 24px;
+    color: #9A040E;
+    margin: 0;
+    padding-top: 8px;
+}*/
+
+#acalLogo {
+    width: 256px;
+    height: 256px;
+    margin-top: 180px;
+    margin-bottom: 20px;
+}
+
+.container {
+    text-align: center;
+}
+
+
+.download {
+    color: #9c0003;
+    text-align: center;
+    padding-bottom: 220px;
+}
